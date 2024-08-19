@@ -1,5 +1,8 @@
 _repo: A-woman-s-soul_74103
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74103-h/images/cover.jpg
 creator:
   author:
     agent_name: Garvice, Charles
@@ -11,6 +14,8 @@ creator:
 description: 'This book has been published under a variety of other titles, including:
   A Woman’s Soul: Behind the Footlights, A Woman’s Soul; or, Doris, and Doris Marlowe;
   or, A Woman’s Soul.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74103#A-woman-s-soul
 gutenberg_issued: '2024-07-23'
 gutenberg_type: Text
 identifiers:
